@@ -1,5 +1,10 @@
 # Workshop-01-Develop-an-android-application-to-pass-the-data-between-the-activities-using-Intent.
 
+```
+Name: Jeya Krishna S J
+Ref no: 212222040064
+```
+
 ## AIM:
 To create a two screens , first screen will take name, age, contact number and email id from user. After click on submit button, second screen will open and it should display result using Explicit Intents.
 
@@ -255,6 +260,10 @@ AndroidManifest.xml:
 </manifest>
 ```
 ###  OUTPUT:
+
+![mad workshop jpg1](https://github.com/user-attachments/assets/8830e718-22cc-4f53-844d-bbbf13e701b4)
+
+![mad workshop](https://github.com/user-attachments/assets/de70fc8a-f673-437d-84ea-678df007f3c2)
 
 
 ## RESULT:
