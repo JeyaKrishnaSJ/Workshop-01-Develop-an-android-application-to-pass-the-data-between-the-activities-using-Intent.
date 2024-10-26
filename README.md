@@ -2,7 +2,7 @@
 
 ```
 Name: Jeya Krishna S J
-Ref no: 212222040064
+Reg no: 212222040064
 ```
 
 ## AIM:
